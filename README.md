@@ -16,9 +16,12 @@ Creating a ToDo-List website to help organize tasks and check off and archive as
     * List of Todo Items to be completed with sorts (Priority Level, Category)
     * List of Completed Todo Items
     
-
-
-
+ * Variables:
+    * Category Names
+    * ToDo Items
+    * Priority Levels
+    * Due Dates
+    * Completed ToDo Items
 
 
 
