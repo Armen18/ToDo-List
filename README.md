@@ -25,7 +25,7 @@ Creating a ToDo-List website to help organize tasks and check off and archive as
 
 
 
-# Notes (week 1)
+# Notes (Week 1 Class)
 
 
 document.body.textContent = "This JS code will replace all the text of the body element in the HTML file!";
