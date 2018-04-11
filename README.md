@@ -2,6 +2,20 @@
 
 Creating a ToDo-List website to help organize tasks and check off and archive as they are completed.
 
+# Notes (ToDo-List Project)
+
+* User Inputs:
+    * Category Names
+    * ToDo Items (with Priority Levels and Due Dates)
+    * User sorting of Lists (Todo Items, Category Names)
+    * Completion check marks
+    
+* Website Outputs:
+    * List of Category Names
+    * List of ToDo Items to be completed (including Priority Levels and Due Dates)
+    * List of Todo Items to be completed with sorts (Priority Level, Category)
+    * List of Completed Todo Items
+    
 
 
 
@@ -49,3 +63,6 @@ if (temperature>65) {
     console.log("Wear a sweater!");
 } else {
     console.log("Wear a jacket!");
+
+
+
